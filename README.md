@@ -1,4 +1,4 @@
-The solution for the DAA AAT Hackerrank challenges.
+The solution for the IML Lab AAT Hackerrank challenges.
 
 The questions can be found here:
 
